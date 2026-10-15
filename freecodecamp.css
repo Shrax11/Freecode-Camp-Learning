@@ -1,5 +1,5 @@
-html{
-    font-size: 15px
+*{
+    border: 1px solid white;
 }
 body{
     background-color: #333;
@@ -10,4 +10,9 @@ a:link { color: maroon; }
 a:visited { color: red; }
 a:focus { color: yellow; background-color: black; }
 a:hover { color: yellow; background-color: black; }
-a:active { color: orangered; background-color: pink; }
+a:active { color: orangered; background-color: pink; 
+}
+img{
+    width:500px;
+    height: 300px;
+}
