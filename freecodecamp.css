@@ -1,0 +1,13 @@
+html{
+    font-size: 15px
+}
+body{
+    background-color: #333;
+    color: whitesmoke;
+}
+a { text-decoration: none; }  /* turns underlines off for all links */
+a:link { color: maroon; }
+a:visited { color: red; }
+a:focus { color: yellow; background-color: black; }
+a:hover { color: yellow; background-color: black; }
+a:active { color: orangered; background-color: pink; }
